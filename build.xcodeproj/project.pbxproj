@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A72B3F2129B257BF00B947B1 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A72B3F2029B257BF00B947B1 /* SettingsViewController.swift */; };
 		A76C4D8429B0182D00030A2F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4D8329B0182D00030A2F /* AppDelegate.swift */; };
 		A76C4D8629B0182D00030A2F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4D8529B0182D00030A2F /* SceneDelegate.swift */; };
 		A76C4D8829B0182D00030A2F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4D8729B0182D00030A2F /* ViewController.swift */; };
@@ -16,6 +17,24 @@
 		A76C4D9B29B0182F00030A2F /* buildTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4D9A29B0182F00030A2F /* buildTests.swift */; };
 		A76C4DA529B0182F00030A2F /* buildUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4DA429B0182F00030A2F /* buildUITests.swift */; };
 		A76C4DA729B0182F00030A2F /* buildUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4DA629B0182F00030A2F /* buildUITestsLaunchTests.swift */; };
+		A76C4DB429B07DE900030A2F /* AnemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4DB329B07DE900030A2F /* AnemoViewController.swift */; };
+		A76C4DB629B0817B00030A2F /* DendroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4DB529B0817B00030A2F /* DendroViewController.swift */; };
+		A76C4DB929B085B500030A2F /* NahidaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4DB829B085B500030A2F /* NahidaViewController.swift */; };
+		A76C4DBB29B0873B00030A2F /* AlhaithamViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4DBA29B0873B00030A2F /* AlhaithamViewController.swift */; };
+		A76C4DBD29B0887400030A2F /* TighnariViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4DBC29B0887400030A2F /* TighnariViewController.swift */; };
+		A76C4DBF29B0894B00030A2F /* Traveler(dendro)ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4DBE29B0894B00030A2F /* Traveler(dendro)ViewController.swift */; };
+		A76C4DC129B08A1D00030A2F /* ColleiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4DC029B08A1D00030A2F /* ColleiViewController.swift */; };
+		A76C4DC329B08AB000030A2F /* YaoyaoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4DC229B08AB000030A2F /* YaoyaoViewController.swift */; };
+		A76C4DC929B100F000030A2F /* JeanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4DC829B100F000030A2F /* JeanViewController.swift */; };
+		A76C4DCB29B100F900030A2F /* KazuhaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4DCA29B100F900030A2F /* KazuhaViewController.swift */; };
+		A76C4DCD29B1010400030A2F /* VentiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4DCC29B1010400030A2F /* VentiViewController.swift */; };
+		A76C4DCF29B1010C00030A2F /* WandererViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4DCE29B1010C00030A2F /* WandererViewController.swift */; };
+		A76C4DD129B1012200030A2F /* XiaoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4DD029B1012200030A2F /* XiaoViewController.swift */; };
+		A76C4DD329B1013200030A2F /* TravelerAnemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4DD229B1013200030A2F /* TravelerAnemoViewController.swift */; };
+		A76C4DD529B1080E00030A2F /* FaruzanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4DD429B1080E00030A2F /* FaruzanViewController.swift */; };
+		A76C4DD729B1084000030A2F /* HeizouViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4DD629B1084000030A2F /* HeizouViewController.swift */; };
+		A76C4DD929B1088900030A2F /* SayuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4DD829B1088900030A2F /* SayuViewController.swift */; };
+		A76C4DDB29B108C000030A2F /* SucroseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76C4DDA29B108C000030A2F /* SucroseViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +55,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A72B3F2029B257BF00B947B1 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		A76C4D8029B0182D00030A2F /* build.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = build.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A76C4D8329B0182D00030A2F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A76C4D8529B0182D00030A2F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +69,24 @@
 		A76C4DA029B0182F00030A2F /* buildUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = buildUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A76C4DA429B0182F00030A2F /* buildUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = buildUITests.swift; sourceTree = "<group>"; };
 		A76C4DA629B0182F00030A2F /* buildUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = buildUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A76C4DB329B07DE900030A2F /* AnemoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnemoViewController.swift; sourceTree = "<group>"; };
+		A76C4DB529B0817B00030A2F /* DendroViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DendroViewController.swift; sourceTree = "<group>"; };
+		A76C4DB829B085B500030A2F /* NahidaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NahidaViewController.swift; sourceTree = "<group>"; };
+		A76C4DBA29B0873B00030A2F /* AlhaithamViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlhaithamViewController.swift; sourceTree = "<group>"; };
+		A76C4DBC29B0887400030A2F /* TighnariViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TighnariViewController.swift; sourceTree = "<group>"; };
+		A76C4DBE29B0894B00030A2F /* Traveler(dendro)ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Traveler(dendro)ViewController.swift"; sourceTree = "<group>"; };
+		A76C4DC029B08A1D00030A2F /* ColleiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColleiViewController.swift; sourceTree = "<group>"; };
+		A76C4DC229B08AB000030A2F /* YaoyaoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YaoyaoViewController.swift; sourceTree = "<group>"; };
+		A76C4DC829B100F000030A2F /* JeanViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JeanViewController.swift; sourceTree = "<group>"; };
+		A76C4DCA29B100F900030A2F /* KazuhaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KazuhaViewController.swift; sourceTree = "<group>"; };
+		A76C4DCC29B1010400030A2F /* VentiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VentiViewController.swift; sourceTree = "<group>"; };
+		A76C4DCE29B1010C00030A2F /* WandererViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WandererViewController.swift; sourceTree = "<group>"; };
+		A76C4DD029B1012200030A2F /* XiaoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XiaoViewController.swift; sourceTree = "<group>"; };
+		A76C4DD229B1013200030A2F /* TravelerAnemoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelerAnemoViewController.swift; sourceTree = "<group>"; };
+		A76C4DD429B1080E00030A2F /* FaruzanViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaruzanViewController.swift; sourceTree = "<group>"; };
+		A76C4DD629B1084000030A2F /* HeizouViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeizouViewController.swift; sourceTree = "<group>"; };
+		A76C4DD829B1088900030A2F /* SayuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SayuViewController.swift; sourceTree = "<group>"; };
+		A76C4DDA29B108C000030A2F /* SucroseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SucroseViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +117,7 @@
 		A76C4D7729B0182D00030A2F = {
 			isa = PBXGroup;
 			children = (
+				A76C4DB329B07DE900030A2F /* AnemoViewController.swift */,
 				A76C4D8229B0182D00030A2F /* build */,
 				A76C4D9929B0182F00030A2F /* buildTests */,
 				A76C4DA329B0182F00030A2F /* buildUITests */,
@@ -99,10 +138,13 @@
 		A76C4D8229B0182D00030A2F /* build */ = {
 			isa = PBXGroup;
 			children = (
+				A76C4DB729B0859A00030A2F /* char */,
 				A76C4D8329B0182D00030A2F /* AppDelegate.swift */,
 				A76C4D8529B0182D00030A2F /* SceneDelegate.swift */,
 				A76C4D8729B0182D00030A2F /* ViewController.swift */,
 				A76C4D8929B0182D00030A2F /* Main.storyboard */,
+				A72B3F2029B257BF00B947B1 /* SettingsViewController.swift */,
+				A76C4DB529B0817B00030A2F /* DendroViewController.swift */,
 				A76C4D8C29B0182E00030A2F /* Assets.xcassets */,
 				A76C4D8E29B0182E00030A2F /* LaunchScreen.storyboard */,
 				A76C4D9129B0182E00030A2F /* Info.plist */,
@@ -125,6 +167,53 @@
 				A76C4DA629B0182F00030A2F /* buildUITestsLaunchTests.swift */,
 			);
 			path = buildUITests;
+			sourceTree = "<group>";
+		};
+		A76C4DB729B0859A00030A2F /* char */ = {
+			isa = PBXGroup;
+			children = (
+				A76C4DC529B100C500030A2F /* Anemo */,
+				A76C4DC729B100D900030A2F /* Cryo */,
+				A76C4DC429B100B200030A2F /* Dendro */,
+			);
+			path = char;
+			sourceTree = "<group>";
+		};
+		A76C4DC429B100B200030A2F /* Dendro */ = {
+			isa = PBXGroup;
+			children = (
+				A76C4DB829B085B500030A2F /* NahidaViewController.swift */,
+				A76C4DBA29B0873B00030A2F /* AlhaithamViewController.swift */,
+				A76C4DBC29B0887400030A2F /* TighnariViewController.swift */,
+				A76C4DBE29B0894B00030A2F /* Traveler(dendro)ViewController.swift */,
+				A76C4DC029B08A1D00030A2F /* ColleiViewController.swift */,
+				A76C4DC229B08AB000030A2F /* YaoyaoViewController.swift */,
+			);
+			path = Dendro;
+			sourceTree = "<group>";
+		};
+		A76C4DC529B100C500030A2F /* Anemo */ = {
+			isa = PBXGroup;
+			children = (
+				A76C4DC829B100F000030A2F /* JeanViewController.swift */,
+				A76C4DCA29B100F900030A2F /* KazuhaViewController.swift */,
+				A76C4DCC29B1010400030A2F /* VentiViewController.swift */,
+				A76C4DCE29B1010C00030A2F /* WandererViewController.swift */,
+				A76C4DD029B1012200030A2F /* XiaoViewController.swift */,
+				A76C4DD229B1013200030A2F /* TravelerAnemoViewController.swift */,
+				A76C4DD429B1080E00030A2F /* FaruzanViewController.swift */,
+				A76C4DD629B1084000030A2F /* HeizouViewController.swift */,
+				A76C4DD829B1088900030A2F /* SayuViewController.swift */,
+				A76C4DDA29B108C000030A2F /* SucroseViewController.swift */,
+			);
+			path = Anemo;
+			sourceTree = "<group>";
+		};
+		A76C4DC729B100D900030A2F /* Cryo */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Cryo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -258,9 +347,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A76C4DD529B1080E00030A2F /* FaruzanViewController.swift in Sources */,
 				A76C4D8829B0182D00030A2F /* ViewController.swift in Sources */,
+				A76C4DBB29B0873B00030A2F /* AlhaithamViewController.swift in Sources */,
+				A76C4DCF29B1010C00030A2F /* WandererViewController.swift in Sources */,
+				A76C4DD129B1012200030A2F /* XiaoViewController.swift in Sources */,
 				A76C4D8429B0182D00030A2F /* AppDelegate.swift in Sources */,
 				A76C4D8629B0182D00030A2F /* SceneDelegate.swift in Sources */,
+				A76C4DC929B100F000030A2F /* JeanViewController.swift in Sources */,
+				A76C4DBD29B0887400030A2F /* TighnariViewController.swift in Sources */,
+				A76C4DB929B085B500030A2F /* NahidaViewController.swift in Sources */,
+				A76C4DBF29B0894B00030A2F /* Traveler(dendro)ViewController.swift in Sources */,
+				A76C4DDB29B108C000030A2F /* SucroseViewController.swift in Sources */,
+				A76C4DB629B0817B00030A2F /* DendroViewController.swift in Sources */,
+				A72B3F2129B257BF00B947B1 /* SettingsViewController.swift in Sources */,
+				A76C4DC329B08AB000030A2F /* YaoyaoViewController.swift in Sources */,
+				A76C4DC129B08A1D00030A2F /* ColleiViewController.swift in Sources */,
+				A76C4DD329B1013200030A2F /* TravelerAnemoViewController.swift in Sources */,
+				A76C4DCB29B100F900030A2F /* KazuhaViewController.swift in Sources */,
+				A76C4DD929B1088900030A2F /* SayuViewController.swift in Sources */,
+				A76C4DB429B07DE900030A2F /* AnemoViewController.swift in Sources */,
+				A76C4DD729B1084000030A2F /* HeizouViewController.swift in Sources */,
+				A76C4DCD29B1010400030A2F /* VentiViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,7 +545,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = V4268FG4XJ;
+				DEVELOPMENT_TEAM = RU4WD266ZD;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = build/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -465,7 +573,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = V4268FG4XJ;
+				DEVELOPMENT_TEAM = RU4WD266ZD;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = build/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
